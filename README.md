@@ -58,8 +58,13 @@ Atualmente, lidero a **Ormind** junto do meu sócio Vinicius, focando em capacit
 ## ⚡ Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermejlou&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermejlou&layout=compact&theme=dracula"/>
+  <a href="https://github.com/guilhermejlou">
+    <img src="https://streak-stats.demolab.com?user=guilhermejlou&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+  
+  <a href="https://github.com/guilhermejlou">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermejlou&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  </a>
 </div>
 
 ---
