@@ -8,7 +8,7 @@ Atualmente, lidero a **Ormind** junto do meu sócio Vinicius, focando em capacit
 
 ---
 
-## 🚀 Sobre Mim
+## 🧑‍💼 Sobre Mim
 
 - 🎓 **Formação:** Engenharia de Produção na **Escola Politécnica da USP** (2026).
 - 💼 **Atuação:** Experiência sólida em FP&A, modelagem de dados e implementação de ERPs (SAP Ariba).
@@ -55,19 +55,6 @@ Atualmente, lidero a **Ormind** junto do meu sócio Vinicius, focando em capacit
 
 ---
 
-## ⚡ Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/guilhermejlou">
-    <img src="https://streak-stats.demolab.com?user=guilhermejlou&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-  
-  <a href="https://github.com/guilhermejlou">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermejlou&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
-  </a>
-</div>
-
----
 
 ## 📫 Vamos Conversar?
 
