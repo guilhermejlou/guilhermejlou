@@ -4,7 +4,7 @@
 
 Sou um profissional híbrido de **Tecnologia & Finanças**, apaixonado por resolver problemas complexos de negócios através de tecnologia sob medida.
 
-Atualmente, lidero a **Ormind**, focando em capacitação e implementação de **Agentes de IA** e automação inteligente para empresas. Acredito que a tecnologia pela tecnologia não gera lucro; o que gera resultado é a estratégia por trás dela.
+Atualmente, lidero a **Ormind** junto do meu sócio Vinicius, focando em capacitação e implementação em **Business Intelligence**, **Agentes de IA e automação** para empresas. Acredito que a tecnologia pela tecnologia não gera lucro; o que gera resultado é a estratégia por trás dela.
 
 ---
 
@@ -12,8 +12,8 @@ Atualmente, lidero a **Ormind**, focando em capacitação e implementação de *
 
 - 🎓 **Formação:** Engenharia de Produção na **Escola Politécnica da USP** (2026).
 - 💼 **Atuação:** Experiência sólida em FP&A, modelagem de dados e implementação de ERPs (SAP Ariba).
-- 💡 **Interesses:** IA Generativa, Automação (RPA/N8N), Business Intelligence e Transformação Digital.
-- 📝 **Publicações:** Recentemente escrevi sobre o **BMAD Method** (Build More, Architect Dreams), um framework para desenvolvimento assistido por IA.
+- 💡 **Interesses:** IA Generativa, Automação, Business Intelligence e Transformação Digital.
+- 📝 **Publicações:** Regularmente posto nas redes minhas descobertas e iniciativas nos meus campos de atuação.
 
 ---
 
@@ -24,6 +24,7 @@ Atualmente, lidero a **Ormind**, focando em capacitação e implementação de *
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+#### Hoje em dia já não faz tanto sentido falar em sintaxe, uma vez que a barreira linguística foi quebrada com a ajuda das IA, tornando possível codificar em uma nova linguagem com o mínimo de esforço se você já tem experiência.
 
 ### 🤖 IA & Automação
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
