@@ -2,18 +2,18 @@
 
 > **Founder @ Ormind | Engenheiro de Produção | Data Analyst | Especialista em IA & Automação**
 
-[cite_start]Sou um profissional híbrido de **Tecnologia & Finanças**, apaixonado por resolver problemas complexos de negócios através de tecnologia sob medida[cite: 10, 12, 75]. 
+Sou um profissional híbrido de **Tecnologia & Finanças**, apaixonado por resolver problemas complexos de negócios através de tecnologia sob medida.
 
-[cite_start]Atualmente, lidero a **Ormind**, focando em capacitação e implementação de **Agentes de IA** e automação inteligente para empresas[cite: 31, 71]. [cite_start]Acredito que a tecnologia pela tecnologia não gera lucro; o que gera resultado é a estratégia por trás dela[cite: 74].
+Atualmente, lidero a **Ormind**, focando em capacitação e implementação de **Agentes de IA** e automação inteligente para empresas. Acredito que a tecnologia pela tecnologia não gera lucro; o que gera resultado é a estratégia por trás dela.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- [cite_start]🎓 **Formação:** Engenharia de Produção na **Escola Politécnica da USP** (2026)[cite: 15, 16].
-- [cite_start]💼 **Atuação:** Experiência sólida em FP&A, modelagem de dados e implementação de ERPs (SAP Ariba)[cite: 10, 40, 45].
-- [cite_start]💡 **Interesses:** IA Generativa, Automação (RPA/N8N), Business Intelligence e Transformação Digital[cite: 13, 25].
-- [cite_start]📝 **Publicações:** Recentemente escrevi sobre o **BMAD Method** (Build More, Architect Dreams), um framework para desenvolvimento assistido por IA[cite: 128].
+- 🎓 **Formação:** Engenharia de Produção na **Escola Politécnica da USP** (2026).
+- 💼 **Atuação:** Experiência sólida em FP&A, modelagem de dados e implementação de ERPs (SAP Ariba).
+- 💡 **Interesses:** IA Generativa, Automação (RPA/N8N), Business Intelligence e Transformação Digital.
+- 📝 **Publicações:** Recentemente escrevi sobre o **BMAD Method** (Build More, Architect Dreams), um framework para desenvolvimento assistido por IA.
 
 ---
 
@@ -33,6 +33,7 @@
 
 ### 📊 Dados & Analytics
 ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -47,16 +48,16 @@
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **Revisão de Documentos com IA (PNLD)** | [cite_start]Sistema de revisão automática para livros didáticos usando APIs da OpenAI e Gemini[cite: 52, 53]. | Python, LLMs, Docling |
-| **Automação Financeira & Dashboards** | [cite_start]Desenvolvimento de modelos preditivos e dashboards executivos para FP&A e tomada de decisão[cite: 46, 56]. | Power BI, SQL, DAX |
-| **Soluções RPA Corporativas** | [cite_start]Automação de processos manuais e integração entre sistemas legados e bases de dados[cite: 61, 62]. | Power Automate, Python |
+| **Revisão de Documentos com IA (PNLD)** | Sistema de revisão automática para livros didáticos usando APIs da OpenAI e Gemini. | Python, LLMs, Docling |
+| **Automação Financeira & Dashboards** | Desenvolvimento de modelos preditivos e dashboards executivos para FP&A e tomada de decisão. | Power BI, SQL, DAX |
+| **Soluções RPA Corporativas** | Automação de processos manuais e integração entre sistemas legados e bases de dados. | Power Automate, Python |
 
 ---
 
 ## ⚡ Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermejlou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermejlou&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermejlou&layout=compact&theme=dracula"/>
 </div>
 
@@ -66,5 +67,6 @@
 
 Se você busca eficiência operacional ou quer entender como a IA pode servir à estratégia da sua empresa, entre em contato:
 
+[![Agendar Reunião](https://img.shields.io/badge/Agendar_Reunião-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](https://outlook.office.com/bookwithme/user/c2b67313526849928919e1af44de3680@ormind.com.br/meetingtype/17pFvfw1Xkm0O3MRUNm32w2?anonymous&ep=mlink)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-de-jesus)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermejlou@gmail.com)
